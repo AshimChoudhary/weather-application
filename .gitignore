@@ -18,9 +18,3 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Excel output files
-*.xlsx
-weather_data.xlsx
-
-# Generated QR codes (if any)
-*.png
